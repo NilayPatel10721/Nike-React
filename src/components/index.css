@@ -1,0 +1,4 @@
+/* Add this CSS in your stylesheet */
+h1:hover > span {
+  color: #fec333;
+}
